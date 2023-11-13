@@ -1,0 +1,12 @@
+typer
+tensorflow
+scikit-learn
+pathlib
+typing_extensions
+typing
+minio
+numpy
+pandas 
+pytz
+boto3==1.28.2
+kfp==1.8.22
